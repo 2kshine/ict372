@@ -1,6 +1,7 @@
 # medical
 
 A new Flutter application.
+A project app for ict372
 
 ## Getting Started
 
